@@ -1,0 +1,12 @@
+C:\Users\Samet\Desktop\ExeExeExe\ExeExeExe\bin\Debug\ExeExeExe.exe.config
+C:\Users\Samet\Desktop\ExeExeExe\ExeExeExe\bin\Debug\ExeExeExe.exe
+C:\Users\Samet\Desktop\ExeExeExe\ExeExeExe\bin\Debug\ExeExeExe.pdb
+C:\Users\Samet\Desktop\ExeExeExe\ExeExeExe\obj\Debug\ExeExeExe.csprojAssemblyReference.cache
+C:\Users\Samet\Desktop\ExeExeExe\ExeExeExe\obj\Debug\ExeExeExe.Form1.resources
+C:\Users\Samet\Desktop\ExeExeExe\ExeExeExe\obj\Debug\ExeExeExe.Properties.Resources.resources
+C:\Users\Samet\Desktop\ExeExeExe\ExeExeExe\obj\Debug\ExeExeExe.csproj.GenerateResource.cache
+C:\Users\Samet\Desktop\ExeExeExe\ExeExeExe\obj\Debug\ExeExeExe.csproj.CoreCompileInputs.cache
+C:\Users\Samet\Desktop\ExeExeExe\ExeExeExe\obj\Debug\ExeExeExe.exe
+C:\Users\Samet\Desktop\ExeExeExe\ExeExeExe\obj\Debug\ExeExeExe.pdb
+C:\Users\Samet\Desktop\ExeExeExe\ExeExeExe\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Samet\Desktop\ExeExeExe\ExeExeExe\obj\Debug\ExeExeExe.csproj.ResolveComReference.cache
